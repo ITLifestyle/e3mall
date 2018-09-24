@@ -7,24 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9f0bf9-1fb7-48ae-8be4-ed0c94c181b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Service_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Web_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Web_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/target/classes/com/lwy/entity/TbItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/com/lwy/entity/TbItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/Service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/src/main/java/com/lwy/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/com/lwy/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Service/target/classes/com/lwy/service/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/conf/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/src/main/resources/mybatis/mybatis-plugin-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/mybatis/mybatis-plugin-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/classes/conf/db.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/classes/mybatis/mybatis-plugin-config.xml" beforeDir="false" />
@@ -32,7 +19,6 @@
       <change beforePath="$PROJECT_DIR$/Web/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/classes/spring/applicationContext.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/target/classes/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/com/lwy/entity/TbItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/com/lwy/entity/TbItem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Web_Web_exploded/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
@@ -60,11 +46,11 @@
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web/src/main/java/com/lwy/controller/ItemController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="292">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,34 +58,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TbItem.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1853#1854#0" expanded="true" />
-                <element signature="e#1891#1892#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="268">
+                <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -107,21 +73,17 @@
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="206">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Service/src/main/java/com/lwy/serviceImpl/ItemServiceImpl.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="17" />
-              <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-470">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -129,17 +91,29 @@
       <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="154">
+              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4730">
-              <caret line="215" column="52" selection-start-line="215" selection-start-column="52" selection-end-line="215" selection-end-column="52" />
+            <state relative-caret-position="506">
+              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="e#711#736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -185,16 +159,16 @@
         <option value="$PROJECT_DIR$/Dao/pom.xml" />
         <option value="$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/Web/src/main/resources/conf/db.properties" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Service/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/Common/src/main/java/com/lwy/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml" />
-        <option value="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/Service/pom.xml" />
         <option value="$PROJECT_DIR$/Web/pom.xml" />
         <option value="$PROJECT_DIR$/Web/src/main/java/com/lwy/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/Web/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml" />
       </list>
     </option>
   </component>
@@ -222,23 +196,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="com.alibaba:dubbo:2.5.3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -270,32 +228,6 @@
             <path>
               <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
               <item name="Service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -317,7 +249,7 @@
               <item name="Service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
@@ -325,8 +257,8 @@
               <item name="Service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
@@ -386,13 +318,6 @@
               <item name="Web" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ShoppingMall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShoppingMall" type="462c0819:PsiDirectoryNode" />
-              <item name="Web" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -411,22 +336,22 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IT\project\ShoppingMall\Dao\src\main\java\com\lwy" />
-      <recent name="E:\IT\project\ShoppingMall\Common\src\main\java\com\lwy\entity" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lwy.service" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IT\project\ShoppingMall\Service\src\main\resources" />
       <recent name="E:\IT\project\ShoppingMall\Web\src\main\resources\spring" />
       <recent name="E:\IT\project\ShoppingMall\Web\src\main\resources\conf" />
       <recent name="E:\IT\project\ShoppingMall\Web\src\main\resources\mybatis" />
       <recent name="E:\IT\project\ShoppingMall\Dao\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lwy.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IT\project\ShoppingMall\Dao\src\main\java\com\lwy" />
+      <recent name="E:\IT\project\ShoppingMall\Common\src\main\java\com\lwy\entity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -441,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.SM-service">
+  <component name="RunManager" selected="Tomcat Server.SM-1">
     <configuration name="Generator" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -762,12 +687,20 @@
       <workItem from="1535619790925" duration="584000" />
       <workItem from="1535676259279" duration="1209000" />
       <workItem from="1537752335155" duration="16000" />
-      <workItem from="1537752500841" duration="334000" />
+      <workItem from="1537752500841" duration="5659000" />
     </task>
+    <task id="LOCAL-00001" summary="再次开动的提交">
+      <created>1537752849958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537752849958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57232000" />
+    <option name="totallyTimeSpent" value="62557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -786,7 +719,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32784185" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.48844886" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.23298033" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.19062027" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info id="Capture Tool" order="6" />
@@ -795,28 +728,28 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42079207" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.11881188" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.19306931" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.22277227" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32838285" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.14026402" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.13861386" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2306425" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24422443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.22277227" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -865,31 +798,13 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6094">
-          <caret line="277" column="21" lean-forward="true" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5940">
-          <caret line="270" column="49" selection-start-line="270" selection-start-column="49" selection-end-line="270" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1044,24 +959,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://MAVEN/com.lwy:ShoppingMall:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.lwy:ShoppingMall:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.lwy:ShoppingMall:1.0-SNAPSHOT</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="57.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext-dao.xml" />
     <entry file="jar://$PROJECT_DIR$/../../_repository/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1106,13 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Service/src/main/java/com/lwy/service/ItemService.java" />
     <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext-service.xml" />
     <entry file="file://$PROJECT_DIR$/Dao/src/main/java/com/lwy/mapper/TbItemMapper.java">
@@ -1132,20 +1022,6 @@
     <entry file="file://$PROJECT_DIR$/Web/src/main/resources/conf/db.properties" />
     <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/springmvc.xml" />
-    <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Service/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1160,16 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../_repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/META-INF/dubbo.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1177,17 +1043,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/service/ItemService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1141">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="90">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Service/src/main/java/com/lwy/serviceImpl/ItemServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4730">
-          <caret line="215" column="52" selection-start-line="215" selection-start-column="52" selection-end-line="215" selection-end-column="52" />
+        <state relative-caret-position="242">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="17" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1205,56 +1087,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/service/ItemService.java">
+    <entry file="file://$PROJECT_DIR$/Dao/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+    <entry file="uml://MAVEN/com.lwy:Service:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lwy:Service:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwy:Service:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.5</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/org.apache.httpcomponents:httpcore:jar:4.3.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/commons-codec:commons-codec:jar:1.6</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/c3p0:c3p0:jar:0.9.1.1</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.1.6</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.1.6/com.github.jsqlparser:jsqlparser:jar:0.9.5</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/org.mybatis.generator:mybatis-generator-core:jar:1.3.7</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.32</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.lwy:Dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-aop:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-aop:jar:4.2.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-expression:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-beans:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.4.RELEASE/org.springframework:spring-web:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.2.4.RELEASE/org.aspectj:aspectjweaver:jar:1.8.7</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.2.4.RELEASE/org.springframework:spring-messaging:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:4.2.4.RELEASE</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.15.0-GA</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-log4j12:jar:1.6.4</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1/log4j:log4j:jar:1.2.14</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.39161849710982655" x="2649.487084870849" y="586.5500089057404" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service/src/main/java/com/lwy/serviceImpl/ItemServiceImpl.java">
+    <entry file="uml://MAVEN/com.lwy:Web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lwy:Web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwy:Web:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.5</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/org.apache.httpcomponents:httpcore:jar:4.3.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.3.5/commons-codec:commons-codec:jar:1.6</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/c3p0:c3p0:jar:0.9.1.1</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4</node>
+            <node x="" y="">com.lwy:Common:jar:1.0-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-aop:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-aop:jar:4.2.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.2.4.RELEASE/org.springframework:spring-expression:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-beans:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.4.RELEASE/org.springframework:spring-web:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.2.4.RELEASE/org.aspectj:aspectjweaver:jar:1.8.7</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.2.4.RELEASE/org.springframework:spring-messaging:jar:4.2.4.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:4.2.4.RELEASE</node>
+            <node x="" y="">jstl:jstl:jar:1.2</node>
+            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">javax.servlet:jsp-api:jar:2.0</node>
+            <node x="" y="">commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="" y="">commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.15.0-GA</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1/log4j:log4j:jar:1.2.14</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.3076417162543061" x="2196.5098076784902" y="62.44935693243602" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.lwy:ShoppingMall:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lwy:ShoppingMall:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwy:ShoppingMall:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="56.5" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.lwy:Common:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lwy:Common:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwy:Common:1.0-SNAPSHOT</node>
+            <node x="" y="">joda-time:joda-time:jar:2.5</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.3.5</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.3.5/org.apache.httpcomponents:httpcore:jar:4.3.2</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.3.5/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.3.5/commons-codec:commons-codec:jar:1.6</node>
+            <node x="" y="">org.quartz-scheduler:quartz:jar:2.2.2</node>
+            <node x="" y="">org.quartz-scheduler:quartz:jar:2.2.2/c3p0:c3p0:jar:0.9.1.1</node>
+            <node x="" y="">org.quartz-scheduler:quartz:jar:2.2.2/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.4</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.4/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.4/log4j:log4j:jar:1.2.16</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.40476190476190477" x="809.0" y="110.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="17" />
+        <state relative-caret-position="286">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#711#736#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Service/src/main/resources/spring/applicationContext-service.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="154">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="268">
+            <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Web/src/main/java/com/lwy/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="292">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/com/lwy/entity/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1853#1854#0" expanded="true" />
-            <element signature="e#1891#1892#0" expanded="true" />
           </folding>
         </state>
       </provider>

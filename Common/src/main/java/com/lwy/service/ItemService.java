@@ -7,6 +7,7 @@ import com.lwy.entity.TbItem;
  */
 public interface ItemService {
     /**
+     * 通过id获取订单的信息
      * @param id
      * @return 订单
      */
